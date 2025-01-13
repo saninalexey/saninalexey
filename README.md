@@ -1,8 +1,8 @@
 ## Hi, I am Alexey 👋
 
-I'm a PhD researcher with a background in materials science, robotics and data science. I'm passionate about bridging the gap between experimental research and data-driven insights to accelerate material discovery. Also I enjoy leveraging machine learning approaches to gain deeper insights into material properties 🧪🔬🔋🤖☘️
+I'm a PhD researcher at <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_the_Technical_University_of_Munich.svg" alt="GitHub Logo" width="30" height="15"> with a background in materials science, robotics and data science. I'm passionate about bridging the gap between experimental research and data-driven insights to accelerate material discovery. Also I enjoy leveraging machine learning approaches to gain deeper insights into material properties 🧪🔬🔋🤖☘️
 
-## 🔍 You can find more about me here
+## 🔍 Connect and find more about me
 
 <a href="https://de.linkedin.com/in/alexey-sanin">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="GitHub" width="30" height="30">
@@ -12,6 +12,9 @@ I'm a PhD researcher with a background in materials science, robotics and data s
 </a>
 <a href="https://www.researchgate.net/profile/Alexey-Sanin">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/240px-ResearchGate_icon_SVG.svg.png" alt="GitHub" width="30" height="30">
+</a>
+<a href="https://www.ch.nat.tum.de/digicat/team/aleksei-sanin/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_the_Technical_University_of_Munich.svg" alt="GitHub" width="54" height="28">
 </a>
 
 <!--
