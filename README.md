@@ -5,13 +5,13 @@ I'm a PhD researcher with a background in materials science, robotics and data s
 ## 🔍 You can find more about me here
 
 <a href="https://de.linkedin.com/in/alexey-sanin">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="GitHub" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="GitHub" width="30" height="30">
 </a>
 <a href="https://orcid.org/0000-0003-1796-9224">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="GitHub" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="GitHub" width="30" height="30">
 </a>
 <a href="https://www.researchgate.net/profile/Alexey-Sanin">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/240px-ResearchGate_icon_SVG.svg.png" alt="GitHub" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/240px-ResearchGate_icon_SVG.svg.png" alt="GitHub" width="30" height="30">
 </a>
 
 <!--
