@@ -1,6 +1,6 @@
 ## Hi, I am Alexey 👋
 
-I'm a PhD researcher at <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_the_Technical_University_of_Munich.svg" alt="GitHub Logo" width="30" height="15"> with a background in materials science, robotics and data science. I'm passionate about bridging the gap between experimental research and data-driven insights to accelerate material discovery. Also I enjoy leveraging machine learning approaches to gain deeper insights into material properties 🧪🔬🔋🤖☘️
+I'm a PhD researcher at <a href="https://www.tum.de/en"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_the_Technical_University_of_Munich.svg" alt="GitHub Logo" width="30" height="15"></a> with a background in materials science, robotics and data science. I'm passionate about bridging the gap between experimental research and data-driven insights to accelerate material discovery. Also I enjoy leveraging machine learning approaches to gain deeper insights into material properties 🧪🔬🔋🤖☘️
 
 ## 🔍 Connect and find more about me
 
