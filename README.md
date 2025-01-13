@@ -2,7 +2,7 @@
 
 I'm a PhD researcher with a background in materials science, robotics and data science. I'm passionate about bridging the gap between experimental research and data-driven insights to accelerate material discovery. Also I enjoy leveraging machine learning approaches to gain deeper insights into material properties 🧪🔬🔋🤖☘️
 
-## 📫 You can find more about me here
+## 🔍 You can find more about me here
 
 <a href="https://de.linkedin.com/in/alexey-sanin">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="GitHub" width="50" height="50">
