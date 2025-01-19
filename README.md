@@ -3,7 +3,7 @@
 I'm a PhD researcher at <a href="https://www.tum.de/en"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Logo_of_the_Technical_University_of_Munich.svg" alt="GitHub Logo" width="30" height="15"></a> with a background in **materials science, robotics and data science**. 🧪⚙️📈 <br>
 I'm passionate about linking **experimental research** and **data-driven insights** to accelerate materials discovery. 🦾🤖🔋 <br>
 I enjoy leveraging **machine learning** approaches to gain deeper insights into material properties. 🔬🧑‍💻💡 <br>
-Also I also love creating effective and beautiful **data visualizations**, making every plot or graph insightful and aesthetic. 📊✨☘️
+Also I love creating effective and beautiful **data visualizations**, making every plot or graph insightful and aesthetic. 📊✨☘️
 
 ## 🔍 Connect and find more about me
 
